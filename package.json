@@ -1,7 +1,7 @@
 {
-  "name": "wordcards-be",
+  "name": "express-starter",
   "version": "1.0.0",
-  "description": "Back-End for WordCards app",
+  "description": "Express starter app",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zavvdev/wordcards-be.git"
+    "url": "git+https://github.com/zavvdev/express-starter.git"
   },
   "author": "Zaviriukha Igor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zavvdev/wordcards-be/issues"
+    "url": "https://github.com/zavvdev/express-starter/issues"
   },
-  "homepage": "https://github.com/zavvdev/wordcards-be#readme",
+  "homepage": "https://github.com/zavvdev/express-starter#readme",
   "dependencies": {
     "dotenv": "16.4.7",
     "express": "4.21.2",
